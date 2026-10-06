@@ -1,0 +1,15 @@
+streamlit
+pandas
+numpy
+scikit-learn>=1.5
+xgboost>=2.1.4
+lightgbm>=4.6.0
+shap
+matplotlib
+requests
+beautifulsoup4
+python-whois
+dnspython
+plotly
+joblib
+ucimlrepo
